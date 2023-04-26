@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dttextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iDhaval/DTTextField",
+      "state" : {
+        "branch" : "master",
+        "revision" : "cd2f33cff6e86011e3d3bc9141ff6976b2d7ed65"
+      }
+    }
+  ],
+  "version" : 2
+}
